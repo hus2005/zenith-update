@@ -1,5 +1,5 @@
 {
-  "versionCode": 3,
-  "description": "Versiyon 3.0.0 yayınlandı. Donma sorunları giderildi ve giriş problemleri çözüldü.",
+  "versionCode": 4,
+  "description": "Versiyon 4.0.0 yayınlandı. Android tv için optimizasyonlar yapıldı.",
   "downloadUrl": "https://raw.githubusercontent.com/hus2005/zenith-update/refs/heads/main/zenithplayer.apk"
 }
